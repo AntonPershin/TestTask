@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "-add FirstName:John LastName:Doe Salary:100.50"
+    },
+    "newProfile1": {
+      "commandName": "Project",
+      "commandLineArgs": "-update id:1 Salary:104.44"
+    }
+  }
+}
